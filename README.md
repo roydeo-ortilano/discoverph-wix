@@ -25,11 +25,6 @@ The project demonstrates proficiency in multi-page content integration and profe
 - **Home**: Overview of the Philippines, key attractions, islands, and beaches, introduction to cultural quirks and outdoor adventures.  
 - **About PH**: In-depth information about the country’s regions and major cities, personal travel reflections, tips for traveling during the monsoon season.  
 
-**Optional Additional Pages**:  
-- **Destinations** – Detailed breakdown of Luzon, Visayas, and Mindanao.  
-- **Travel Tips** – Climate, transportation, and local customs.  
-- **Gallery** – Images of landscapes, cultural events, and wildlife.
-
 ---
 
 ## Content Included
